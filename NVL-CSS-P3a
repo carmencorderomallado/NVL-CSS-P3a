@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Carmen Cordero - Ejemplo</title>
+     <style>
+       h1 {
+         color: white;
+         background-color: brown;
+         border: 1px solid white;
+       }
+       p {
+         color: green;
+       }
+     </style>
+   </head>
+   <body>
+     <h1>Brooks Brothers contrata al banco de inversión PJ Solomon para explorar su venta</h1>
+     <p>Brooks Brothers explora su venta. La compañía, propiedad desde 2001 del empresario Claudio del Vecchio, ha contratado al banco de inversión PJ Solomon para explorar opciones de futuro, entre ellas la venta, según WWD. 
+ 
+A principios de esta semana, el diario italiano Milano Finanza ya avanzó que Del Vecchio estaba explorando deshacerse de la histórica compañía estadounidense, si bien el empresario había reiterado en varias ocasiones que no estaba en su hoja de ruta. 
+ 
+Del Vecchio es hijo de Leonardo del Vecchio, fundador del gigante de la óptica Luxottica. Aunque comenzó su carrera en la compañía familiar, el empresario abandonó Luxottica en 1997 y se hizo con la cadena de moda femenina Casual Corner. En 2001, el ejecutivo tomó el control de Brooks Brothers.</p>
+   </body>
+</html>
